@@ -1,1 +1,1 @@
-# Minu-Esimene-Repo
+"# Tere, GitHub!" 
